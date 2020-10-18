@@ -6,10 +6,6 @@ Youtube Demonstration: https://youtu.be/T_e9xgo-yPg
 
 Pictures Link: https://drive.google.com/drive/folders/1-TAw9pxDyWZWpBgNZ-vt6mStMALKgFxF?usp=sharing
 
-Time = approximately 1 hour
-
-Price = approximately $45 CAD
-
 The entire system is based around a RFID sensor (RFID - RC522) and a solenoid Valve Lock. 
 All attached to the arduino the RFID sensor scans for any cards/tags near by. 
 Each tag has its own unique ID which can then be inputted into the code as a approached tag. 
