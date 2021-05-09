@@ -2,7 +2,7 @@
 
 December 2019
  
-Inspired by: https://create.arduino.cc/projecthub/diyprojectslab/diy-rfid-door-lock-system-074173
+Tutorial by: https://create.arduino.cc/projecthub/diyprojectslab/diy-rfid-door-lock-system-074173
  
 Youtube Demonstration: https://youtu.be/T_e9xgo-yPg
  
